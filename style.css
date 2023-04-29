@@ -1,0 +1,257 @@
+#box1{
+    
+    width: 1440px;
+    height: 592px;
+    left: 0px;
+    top: -1px;
+    
+    /* The brown */
+    
+    background: #FFCD9E;
+}
+#h1{
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    /* or 54px */
+    
+    
+    color: #282828;
+    
+
+}
+#h2{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 219px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #484848;
+
+}
+#h3{
+
+/* or 32px */
+position: absolute;
+width: 227px;
+height: 81px;
+left: 136px;
+top: 315px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+
+color: #282828;
+
+}
+#int{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    left: 136px;
+    top: 411px;
+    
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+}
+#sub{
+
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+    color: white;
+    background: #282828;
+    border-radius: 8px;
+}
+#h4{
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 134px;
+    top: 479px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+#vector{
+    
+    position: absolute;
+    left: 55.98%;
+   
+    top: 11.55%;
+    
+    
+
+}
+#body{
+    position: absolute;
+    left: 15.98%;
+    right: 15.58%;
+    top: 11.55%;
+    bottom: 11.51%;
+
+
+}
+
+
+
+
+/*#eyebroleft{
+
+    position: absolute;
+    left: 44.55%;
+    
+    top: 27.67%;
+    bottom: 71.1%;
+    
+    
+}
+#eyebrowright{
+    position: absolute;
+    left: 53.3%;
+    right: 42.28%;
+    top: 27.67%;
+    bottom: 71.1%;
+    
+   
+}
+
+#eyesleft{
+    position: absolute;
+    left: 46.12%;
+    right: 52.52%;
+    top: 30.29%;
+    bottom: 67.54%;
+    
+    
+}
+
+#eyesright{
+    position: absolute;
+    left: 54.87%;
+    right: 43.77%;
+    top: 30.29%;
+    bottom: 67.55%;
+    
+    
+}
+
+#nose{
+
+position: absolute;
+left: 50.08%;
+right: 48.45%;
+top: 30.04%;
+bottom: 63.41%;
+
+
+}
+
+#smile{
+
+
+    position: absolute;
+    left: 48.72%;
+    right: 46.74%;
+    top: 38.72%;
+    bottom: 60.02%;
+    
+    
+}
+*/
+
+#box2{
+
+width: 1440px;
+height: 298px;
+left: 0px;
+top: 592px;
+
+/* The Black */
+
+background: #282828;
+
+}
+#leftfooter{
+
+position: absolute;
+width: 216px;
+height: 36px;
+left: 191px;
+top: 654px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+
+
+
+}
+#rightside{
+    position: absolute;
+    width: 232px;
+    height: 36px;
+    left: 1015px;
+    top: 690px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+    
+    text-align: right;
+    
+    color: #FFFFFF;
+    
+    
+}
